@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "851385510034",
+    "project_id": "jumpstart-app-a00f1",
+    "storage_bucket": "jumpstart-app-a00f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851385510034:android:d514e8954eabd2b9a81e4b",
+        "android_client_info": {
+          "package_name": "com.bitwyse.adminjumpstart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851385510034-oeqj4bdc3qm2l7m16ov9slguob0vqj3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitwyse.adminjumpstart",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "851385510034-jvjif343fco6cakjmsbv03d4qgvd1p1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALnw96hEMBpBXoAQtIwM4Hed0W6XwpD_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851385510034-esletp6gb6q8g76slc75qnoripe0fpe6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "851385510034-1kdrkkg2nfovgbpd94h8lrc35i70b2g6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myjumpstart.global"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851385510034:android:1dad0585352f66dca81e4b",
+        "android_client_info": {
+          "package_name": "com.bitwyse.jumpstart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851385510034-24o2a2ahc3gv2oa1eg2jlmlh6iqei28t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitwyse.jumpstart",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "851385510034-jvjif343fco6cakjmsbv03d4qgvd1p1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALnw96hEMBpBXoAQtIwM4Hed0W6XwpD_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851385510034-esletp6gb6q8g76slc75qnoripe0fpe6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "851385510034-1kdrkkg2nfovgbpd94h8lrc35i70b2g6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myjumpstart.global"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851385510034:android:2377a7f9235fc1eca81e4b",
+        "android_client_info": {
+          "package_name": "com.myjumpstart.global"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851385510034-r04lvqd3nl66ev43icark1075341dtgb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myjumpstart.global",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "851385510034-jvjif343fco6cakjmsbv03d4qgvd1p1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALnw96hEMBpBXoAQtIwM4Hed0W6XwpD_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851385510034-esletp6gb6q8g76slc75qnoripe0fpe6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "851385510034-1kdrkkg2nfovgbpd94h8lrc35i70b2g6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myjumpstart.global"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
